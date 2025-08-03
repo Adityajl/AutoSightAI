@@ -2,7 +2,7 @@
 
 **AutoSight AI** is a real-time AI-based system for object detection, depth estimation, and dynamic risk assessment — built to simulate core perception capabilities in autonomous vehicles using your webcam or dashcam footage.
 
-![AutoSight Demo](https://your-demo-gif-link.com) <!-- Replace with your GIF -->
+![AutoSight Demo](https://github.com/Adityajl/AutoSightAI/blob/master/Screenshot%20From%202025-08-03%2021-02-54.png) <!-- Replace with your GIF -->
 
 ---
 
