@@ -1,0 +1,66 @@
+# .gitignore for AutoSightAI
+# 🔧 Python Bytecode & Caches
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# 🐍 Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+.Python
+
+# 🧪 Jupyter
+.ipynb_checkpoints/
+
+# 💻 VSCode/IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 🧠 AI Model Weights
+*.pt
+*.h5
+*.ckpt
+*.pkl
+*.onnx
+
+# 🎥 Videos / Test Media
+*.mp4
+*.avi
+*.mov
+*.webm
+*.mkv
+
+# 🧾 Config Files
+.DS_Store
+*.yaml
+*.yml
+*.toml
+
+# 🚫 System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# 🚀 PyInstaller
+*.spec
+
+# ✅ Pipenv/Poetry
+Pipfile.lock
+poetry.lock
+
+# 🔐 Credentials
+.env
+.env.*
+
+# 📦 Streamlit Cache
+.streamlit/config.toml
+.streamlit/*.json
